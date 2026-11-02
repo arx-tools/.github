@@ -1,6 +1,4 @@
-# arx-tools
-
-Tools, maps and mods for **Arx Fatalis** (2002), the game Arkane made before Dishonored.
+Tools for **Arx Fatalis** (2002), Arkane Studio's first game.
 
 - **[Arx Fatalis Browser Editor](https://github.com/arx-tools/arx-fatalis-browser-editor)**: open, edit and export levels in the browser, no install.
 - **[arx-convert](https://github.com/arx-tools/arx-convert)**: the game's binary formats (DLF, LLF, FTS, FTL and friends) to JSON and back.
